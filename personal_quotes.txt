@@ -6,3 +6,5 @@ This is find
 
 
 Live long and proser -- Spock
+
+This is a quote that was change for the git diff on personal qutoes
